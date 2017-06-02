@@ -1,0 +1,61 @@
+.pic1{
+	margin-top: 80px;
+	margin-right:30px; 
+/*	margin:5px;*/
+	width: 300px;
+	height: 450px;
+	display: block;
+	float: left;
+	clear: both;
+
+}
+.pic2{
+/*	position: relative;*/
+	position: fixed;
+	top: 10px;
+	right:5px;
+	margin:5px;
+	width: 300px;
+	height: 400px;
+/*	display: block;*/
+/*	clear: both;*/
+}
+.heading1{
+	width: 200;
+	height: 200;
+	margin:50px;
+	font-size: 40px;
+	color: lightgreen;
+	text-align: center;
+	display: block;
+}
+.paragraph1{
+
+	width: 400px;
+	height: 200px;
+	margin-left:250px;
+	font-size: 50px;
+	clear: left;
+	display: inline;
+	color: orange;
+}
+.paragraph2{
+	margin-left: 300px;
+	width: 800px;
+	height: 600px;
+	margin-top: 50px;
+	font-size: 35px;
+	display: block;
+	clear: both;
+	color: orange;
+}
+.navigation{
+	font-size: 50px;
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+}
+.bullet{
+	font-size: 35px;
+	color: orange;
+}
